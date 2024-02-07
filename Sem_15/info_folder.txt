@@ -1,0 +1,19 @@
+INFO     parent_folder: C:\Users\Noname\Desktop\GB_ДЗ\Diving_into_python        , name: Sem_15          , folder_flag: True  , type_file:         
+INFO     parent_folder: C:\Users\Noname\Desktop\GB_ДЗ\Diving_into_python\Sem_15 , name: atm             , folder_flag: False , type_file: log     
+INFO     parent_folder: C:\Users\Noname\Desktop\GB_ДЗ\Diving_into_python\Sem_15 , name: final_task_1    , folder_flag: False , type_file: py      
+INFO     parent_folder: C:\Users\Noname\Desktop\GB_ДЗ\Diving_into_python\Sem_15 , name: final_task_2    , folder_flag: False , type_file: py      
+INFO     parent_folder: C:\Users\Noname\Desktop\GB_ДЗ\Diving_into_python\Sem_15 , name: final_task_3    , folder_flag: False , type_file: py      
+INFO     parent_folder: C:\Users\Noname\Desktop\GB_ДЗ\Diving_into_python\Sem_15 , name: info_folder     , folder_flag: False , type_file: log     
+INFO     parent_folder: C:\Users\Noname\Desktop\GB_ДЗ\Diving_into_python\Sem_15 , name: info_folder     , folder_flag: False , type_file: txt     
+INFO     parent_folder: C:\Users\Noname\Desktop\GB_ДЗ\Diving_into_python\Sem_15 , name: log_date_err    , folder_flag: False , type_file: log     
+INFO     parent_folder: C:\Users\Noname\Desktop\GB_ДЗ\Diving_into_python\Sem_15 , name: log_date_err_2  , folder_flag: False , type_file: log     
+INFO     parent_folder: C:\Users\Noname\Desktop\GB_ДЗ\Diving_into_python\Sem_15 , name: log_err         , folder_flag: False , type_file: log     
+INFO     parent_folder: C:\Users\Noname\Desktop\GB_ДЗ\Diving_into_python\Sem_15 , name: log_info        , folder_flag: False , type_file: log     
+INFO     parent_folder: C:\Users\Noname\Desktop\GB_ДЗ\Diving_into_python\Sem_15 , name: log_info_2      , folder_flag: False , type_file: log     
+INFO     parent_folder: C:\Users\Noname\Desktop\GB_ДЗ\Diving_into_python\Sem_15 , name: queen_placement , folder_flag: False , type_file: log     
+INFO     parent_folder: C:\Users\Noname\Desktop\GB_ДЗ\Diving_into_python\Sem_15 , name: sem_15.1.py     , folder_flag: False , type_file: no_type 
+INFO     parent_folder: C:\Users\Noname\Desktop\GB_ДЗ\Diving_into_python\Sem_15 , name: sem_15.2.py     , folder_flag: False , type_file: no_type 
+INFO     parent_folder: C:\Users\Noname\Desktop\GB_ДЗ\Diving_into_python\Sem_15 , name: sem_15.3.py     , folder_flag: False , type_file: no_type 
+INFO     parent_folder: C:\Users\Noname\Desktop\GB_ДЗ\Diving_into_python\Sem_15 , name: sem_15.4.py     , folder_flag: False , type_file: no_type 
+INFO     parent_folder: C:\Users\Noname\Desktop\GB_ДЗ\Diving_into_python\Sem_15 , name: sem_15.5.py     , folder_flag: False , type_file: no_type 
+INFO     parent_folder: C:\Users\Noname\Desktop\GB_ДЗ\Diving_into_python\Sem_15 , name: sem_15.6.py     , folder_flag: False , type_file: no_type 
